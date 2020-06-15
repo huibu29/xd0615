@@ -17,7 +17,7 @@
 
 ​        You've successfully authenticated, but github does not provide shell access.
 
-  ![image-20200615234701196](C:\Users\23035\AppData\Roaming\Typora\typora-user-images\image-20200615234701196.png)
+  ![image-20200615234701196](https://github.com/huibu29/xd0615/blob/master/20200615234701196.png)
 
 ​    
 
@@ -38,7 +38,7 @@
 
 1. 相关内容查阅：
 
-[file:///C:/Program%20Files/WindowsApps/ArduinoLLC.ArduinoIDE_1.8.33.0_x86__mdqgnx93n4wtt/reference/www.arduino.cc/en/Guide/Environment.html](file:///C:/Program Files/WindowsApps/ArduinoLLC.ArduinoIDE_1.8.33.0_x86__mdqgnx93n4wtt/reference/www.arduino.cc/en/Guide/Environment.html)
+​       Arduino 内的 帮助 >> 环境.
 
 2. 代码 与 arduino控制板
 
